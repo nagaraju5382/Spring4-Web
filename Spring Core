@@ -1,0 +1,8 @@
+What is spring framework for, it increases the testability , maintainability, scalability of your application.
+It decouples the things, caching ( EhCache ) 
+
+It also reduces the complexity of our code, works on business focus required. 
+
+let us take an example of JDBC, its has opening, closing connnection. 
+
+Developer can focus on business needs. Our code focus on testing. 
