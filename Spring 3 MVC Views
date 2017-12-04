@@ -21,4 +21,8 @@ Spring TLD tags:
 Bind, escapeBody, hasBindErrors, message, nestedPath, theme, transform , URL, eval.
 
 Spring-Form tags:
-checkbox, checkboxes, errors, form, hidden, input , label, form , option, password, select
+checkbox, checkboxes, errors, form, hidden, input , label, form , option, password, select .
+
+<mvc:annotation-driven/>
+<mvc:context:component-scan/>
+<
