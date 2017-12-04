@@ -1,3 +1,5 @@
+
+
 Spring 3 has various view resolvers.
 > BeanNameViewResolver. 
 > InternalResourceViewResolver
@@ -7,3 +9,16 @@ Spring 3 has various view resolvers.
 > URLBasedViewResolver
 > ContentNegotiatgionViewResolver ( JSP/ XML / JSON )
 WE can have multiple viewresolvers in a single application. 
+
+
+Spring Tags: 
+
+2 types of form tags we have: 
+> spring-tld tags
+> spring-form tld tags
+
+Spring TLD tags:
+Bind, escapeBody, hasBindErrors, message, nestedPath, theme, transform , URL, eval.
+
+Spring-Form tags:
+checkbox, checkboxes, errors, form, hidden, input , label, form , option, password, select
