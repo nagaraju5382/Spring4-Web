@@ -1,0 +1,9 @@
+Spring 3 has various view resolvers.
+> BeanNameViewResolver. 
+> InternalResourceViewResolver
+> FreeMarkerViewResolver
+> ResourceBundleViewResolver (I18n features ) 
+> TilesViewResolver
+> URLBasedViewResolver
+> ContentNegotiatgionViewResolver ( JSP/ XML / JSON )
+WE can have multiple viewresolvers in a single application. 
